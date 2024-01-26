@@ -4,7 +4,7 @@ It Contains Responsive Navbar, Home Section,  Services Section, Product Section,
 
 This repo contains a variety of pastries Website Project.
 
-Have a look to Live demo of website    [Live Demo](https://amira-fathalla12.github.io/Travel-Website/)
+Have a look to Live demo of website    [Live Demo]https://amira-fathalla12.github.io/Bakery-shop/)
 
 ## Languages Usead
 - HTML

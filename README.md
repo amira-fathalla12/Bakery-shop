@@ -2,10 +2,8 @@
 
 Welcome to the Responsive Bakery Shop website repository! This project features a visually appealing and user-friendly website for a bakery, complete with responsive sections.
 
-🍰 ![Bakery Website](link-to-image)
-
-## Live Demo
-Explore the live demo of the website [here](https://amira-fathalla12.github.io/Travel-Website/).
+## Live Demo 
+🍰  Explore the live demo of the website [here](https://amira-fathalla12.github.io/Travel-Website/).
 
 ## Technologies Used
 - **HTML**: Structural foundation.
